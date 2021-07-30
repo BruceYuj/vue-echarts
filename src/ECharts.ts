@@ -15,7 +15,7 @@ import {
   watchEffect,
   Vue2
 } from "vue-demi";
-import { init as initChart } from "echarts/core";
+import { init as initChart } from "echarts5/core";
 import {
   EChartsType,
   Option,
